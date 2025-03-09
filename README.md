@@ -16,7 +16,7 @@
       </tr>
        <tr>
            <td align="left">
-                <a href="">● </a> <br>
+                <a href="Sprawozdania/1/PSI_Sprawozdanie1.pdf">● Sprawozdanie 1: Analiza modelu biznesowego</a> <br>
            </td>
        </tr>
    </table>

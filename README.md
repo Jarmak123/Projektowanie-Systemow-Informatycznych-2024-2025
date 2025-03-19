@@ -17,6 +17,7 @@
        <tr>
            <td align="left">
                 <a href="Sprawozdania/1/PSI_Sprawozdanie1.pdf">● Sprawozdanie 1: Analiza modelu biznesowego</a> <br>
+                <a href="Sprawozdania/2/SPR2_Jarmakowicz_Ciesielski.pdf">● Sprawozdanie 2: Specyfikacja wymagań</a> <br>
            </td>
        </tr>
    </table>

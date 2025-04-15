@@ -19,6 +19,7 @@
                 <a href="Sprawozdania/1/PSI_Sprawozdanie1.pdf">● Sprawozdanie 1: Analiza modelu biznesowego</a> <br>
                 <a href="Sprawozdania/2/SPR2_Jarmakowicz_Ciesielski.pdf">● Sprawozdanie 2: Specyfikacja wymagań</a> <br>
                 <a href="Sprawozdania/3/SPR3_Jarmakowicz_Ciesielski.pdf">● Sprawozdanie 3: Modelowanie analityczne</a> <br>
+                <a href="Sprawozdania/4/SPR4_Jarmakowicz_Ciesielski.pdf">● Sprawozdanie 4: Diagramy klas i obiektów</a> <br>
            </td>
        </tr>
    </table>

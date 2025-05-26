@@ -22,6 +22,7 @@
                 <a href="Sprawozdania/4/SPR4_Jarmakowicz_Ciesielski.pdf">● Sprawozdanie 4: Diagramy klas i obiektów</a> <br>
                 <a href="Sprawozdania/5/SPR5_Jarmakowicz_Ciesielski.pdf">● Sprawozdanie 5: Projektowanie relacyjnej bazy danych</a> <br>
                 <a href="Sprawozdania/6/SPR6_Jarmakowicz_Ciesielski.pdf">● Sprawozdanie 6: Projektowanie interfejsu użytkownika</a> <br>
+                <a href="Sprawozdania/7/ALL_SPR7_Jarmakowicz_Ciesielski.pdf">● Sprawozdanie 7: Cały projekt</a> <br>
            </td>
        </tr>
    </table>

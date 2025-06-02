@@ -23,6 +23,7 @@
                 <a href="Sprawozdania/5/SPR5_Jarmakowicz_Ciesielski.pdf">● Sprawozdanie 5: Projektowanie relacyjnej bazy danych</a> <br>
                 <a href="Sprawozdania/6/SPR6_Jarmakowicz_Ciesielski.pdf">● Sprawozdanie 6: Projektowanie interfejsu użytkownika</a> <br>
                 <a href="Sprawozdania/7/ALL_SPR7_Jarmakowicz_Ciesielski.pdf">● Sprawozdanie 7: Cały projekt</a> <br>
+                <a href="Sprawozdania/8/SPR_8_Jarmakowicz_Ciesielski.pdf">● Sprawozdanie 8: Prezentacja</a> <br>
            </td>
        </tr>
    </table>
